@@ -21,3 +21,5 @@ export all_proxy=socks5://127.0.0.1:7890
 6. 新开一个终端运行`curl https://www.google.com`，有一大串输出则成功！
 ## 参考教程
 该教程有更详细的其余操作 [Linux 服务器安装 Clash代理](https://blog.myxuechao.com/post/36)
+## 机场
+[低价机场推荐](https://github.com/DiningFactory/panda-vpn-pro)
